@@ -1,6 +1,11 @@
 
 # AAPL Stock Returns: Time Series Analysis and ARIMA Forecasting
 
+Explore the complete analysis, including data preparation, stationarity testing, ARIMA model selection, backtesting, forecasting, and residual diagnostics.
+
+📓 [View the ARIMA AAPL Stock Forecasting Notebook](https://github.com/najiyak23/Time_Series-Analysis/blob/main/ARIMA_AAPL_Stock_Forecasting.ipynb)
+
+
 ## Project Overview
 
 This project analyses the weekly stock prices and log returns of Apple Inc. (AAPL) from June 2009 to June 2019 using time series analysis techniques in Python.
